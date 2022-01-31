@@ -1,0 +1,34 @@
+{
+  "1": {
+    "size": "Одинарная",
+    "cost": 125,
+    "totaltime": 0,
+    "totalmoney": 0,
+	"broken": "Нет",
+    "img" : "single.png"
+  },
+   "2": {
+    "size": "Одинарная",
+    "cost": 125,
+    "totaltime": 0,
+    "totalmoney": 0,
+	"broken": "Нет",
+    "img" : "single.png"
+  },
+   "3": {
+    "size": "Одинарная",
+    "cost": 125,
+    "totaltime": 0,
+    "totalmoney": 0,
+	"broken": "Нет",
+    "img" : "single.png"
+  },
+   "4": {
+    "size": "Одинарная",
+    "cost": 125,
+    "totaltime": 0,
+    "totalmoney": 0,
+	"broken": "Нет",
+    "img" : "single.png"
+  },
+}

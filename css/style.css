@@ -1,0 +1,82 @@
+.mini-cart {
+	font-size: 2rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	height: 5px;
+}
+
+.cart {
+	width: 100px;
+	height: 250px;
+	border: 1px solid black;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	padding: 5px;
+}
+.cart .name {
+	font-size: 2rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.cart .add-to-cart {
+	font-size: 0.8rem;
+	background: teal;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.cart .setnull {
+	font-size: 0.8rem;
+	background: teal;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.timer {
+	font-size: 2rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	height: 20px;
+}
+
+
+.cart .add-to-cart:hover {
+	background: cadetblue;
+}
+
+.cart .add-to-cart:active {
+	background: red;
+}
+
+.cart .setnull:hover {
+	background: cadetblue;
+}
+
+.cart .setnull:active {
+	background: red;
+}
+
+.goods-out {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.goods-out::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.main-cart img {
+	width: 48px;
+}
